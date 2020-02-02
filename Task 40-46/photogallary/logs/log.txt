@@ -1,0 +1,8 @@
+Logs Cleared | by User ID 1.
+2020:01:15 07:01:53 | Login: mike logged in
+2020:01:16 07:01:34 | Login: mike logged in
+2020-01-16 21:51:47 | 2020:01:16 09:01:47: Login: mike logged in
+2020-01-20 19:38:30 | 2020:01:20 07:01:30: Login: mike logged in
+2020-01-21 23:48:03 | 2020:01:21 11:01:03: Login: mike logged in
+2020-01-23 19:44:55 | 2020:01:23 07:01:55: Login: mike logged in
+2020-01-27 00:32:54 | 2020:01:27 12:01:54: Login: mike logged in
